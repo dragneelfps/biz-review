@@ -1,0 +1,17 @@
+.form {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.add-review-actions {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 16px;
+}
+
+.add-review-actions button {
+    margin-left: 16px;
+}
