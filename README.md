@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Business Review App
+Hosted at [https://dragneelfps.github.io/biz-review/](https://dragneelfps.github.io/biz-review/)
 
 ## Available Scripts
 
